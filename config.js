@@ -4,9 +4,9 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 // Perra mal parida dame tus tetas (.)(.)
-global.owner = [
-  ['595983186566', 'Sapito  ᷦ×͜×', true],
-  ['524531106422', 'Sapito  ᷦ', true],
+global.owner = [+595993475696
+  ['+595993475696', 'Sapito  ᷦ×͜×', true],
+  ['+59576591617', 'Sapito  ᷦ', true],
 ] // Cambia los numeros que quieras
 global.mods = ['420702012758'] 
 global.prems = [911] 
